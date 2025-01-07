@@ -8,6 +8,8 @@
 // Adding Image text
 
 // Issue 002
+// Starting issue 002
+// Finish issue 002
 
 // Issue 003
 
