@@ -8,7 +8,7 @@
 // Adding Image text
 
 // Issue 002
-
+// Starting issue 002
 import SwiftUI
 
 struct ContentView: View {
