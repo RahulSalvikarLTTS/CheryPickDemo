@@ -9,6 +9,8 @@
 
 // Issue 002
 // Starting issue 002
+// Finish issue 002
+
 import SwiftUI
 
 struct ContentView: View {
