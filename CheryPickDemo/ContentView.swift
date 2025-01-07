@@ -7,8 +7,6 @@
 
 import SwiftUI
 
-// Test
-
 struct ContentView: View {
     var body: some View {
         VStack {
@@ -16,6 +14,11 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, world!")
+            Image(systemName: "globe")
+                .imageScale(.large)
+                .foregroundStyle(.tint)
+            Text("Hello, world!")
+
         }
         .padding()
     }
